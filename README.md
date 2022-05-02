@@ -1,3 +1,3 @@
 # dragNdrop-todo
 
-Drag n' Drop Todo created with TypeScript and webpack
+Drag n' Drop Todo created with TypeScript
